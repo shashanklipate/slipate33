@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Languages and Tools:
+Python, C, Cpp, Angular, JS, OpenCV
+     
