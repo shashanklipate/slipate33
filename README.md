@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm Shashank, a Data Science Researcher 🚀 from India. Currently, I'm working on ML, DL, CV & NLP concepts. Beside's programming, I enjoy reading books and watching youtube and cricket.
+
 <!--
 **slipate33/slipate33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
